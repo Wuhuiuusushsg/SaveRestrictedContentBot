@@ -77,7 +77,8 @@ Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
 - Go to settings of your forked repo
 - Rename your repo by any other name
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on  [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Wuhuiuusushsg/SaveRestrictedContentBot)
+
  
 » Method - 2:
 - Star the repo, and fork it in desktop mode
